@@ -134,7 +134,7 @@ export const businessInfo = {
   hours: "Open Daily | 11 AM - 9 PM",
   rating: 4.9,
   reviewCount: 368,
-  orderOnlineUrl: "https://www.toasttab.com/po-kay-bowls", // Placeholder
+  orderOnlineUrl: "https://order.toasttab.com/online/pokay-68-west-jimmie-leeds-road",
   googleMapsUrl: "https://maps.google.com/?q=68+West+Jimmie+Leeds+Road+Galloway+NJ+08205",
   googleReviewUrl: "https://g.page/r/pokay-bowls/review", // Placeholder
 };

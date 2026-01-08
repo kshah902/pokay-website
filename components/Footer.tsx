@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { businessInfo } from '@/lib/data';
 
 export default function Footer() {
@@ -11,12 +12,13 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <div className="mb-4">
-              <span className="text-3xl font-bold text-[var(--primary-orange)]" style={{ fontFamily: 'cursive' }}>
-                Po-Kay
-              </span>
-              <span className="block text-sm text-white/80 font-medium tracking-wider">
-                BOWLS
-              </span>
+              <Image
+                src="/images/logo.png"
+                alt="Po-Kay Bowls"
+                width={120}
+                height={60}
+                className="h-14 w-auto brightness-0 invert"
+              />
             </div>
             <p className="text-white/80 mb-4 max-w-md">
               Fresh, Hawaiian-inspired poke bowls made with bold flavors and high-quality ingredients, served in a modern, welcoming environment in Galloway, New Jersey.
