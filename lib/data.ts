@@ -135,6 +135,6 @@ export const businessInfo = {
   rating: 4.9,
   reviewCount: 368,
   orderOnlineUrl: "https://order.toasttab.com/online/pokay-68-west-jimmie-leeds-road",
-  googleMapsUrl: "https://maps.google.com/?q=68+West+Jimmie+Leeds+Road+Galloway+NJ+08205",
-  googleReviewUrl: "https://g.page/r/pokay-bowls/review", // Placeholder
+  googleMapsUrl: "https://maps.app.goo.gl/YZDfiyu4qYJYZ82T7",
+  googleReviewUrl: "https://search.google.com/local/writereview?placeid=ChIJbb-YuZPnwIkRGFi8AWDJkPQ",
 };
