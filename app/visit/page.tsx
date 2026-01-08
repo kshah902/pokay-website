@@ -123,7 +123,7 @@ export default function VisitPage() {
             <div className="relative">
               <div className="bg-white rounded-2xl overflow-hidden shadow-2xl h-full min-h-[400px]">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.8!2d-74.5!3d39.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDMwJzAwLjAiTiA3NMKwMzAnMDAuMCJX!5e0!3m2!1sen!2sus!4v1600000000000!5m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d192.4836232258315!2d-74.5409918!3d39.4752479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0e793b998bf6d%3A0xf490c96001bc5818!2sPo-Kay!5e0!3m2!1sen!2sus!4v1767833581733!5m2!1sen!2sus"
                   width="100%"
                   height="100%"
                   style={{ border: 0, minHeight: '400px' }}
